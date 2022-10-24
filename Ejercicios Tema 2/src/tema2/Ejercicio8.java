@@ -25,7 +25,7 @@ nota = all.nextDouble();
 
 //Si la nota es menor a cinco y mayor que -0.001, la nota es insuficiente 
 
-if (nota < 5 && nota > -0.001) {
+if (nota < 5 && nota >= 0) {
 	System.out.println("La nota es insuficiente");
 	}
 
