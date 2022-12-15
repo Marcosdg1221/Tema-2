@@ -31,7 +31,7 @@ public static void main(String[] args) {uioñio
 			System.out.println("El número es par ");
 			
 		}
-		else
+		elseuopñ´-uop-
 		{	
 			System.out.println("El número es impar ");
 		}
